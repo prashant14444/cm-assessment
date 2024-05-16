@@ -1,14 +1,12 @@
 # cm-assessment
 
-# posts
-This repository contains the code for the Posts web Application
-
 Steps to setup and run the code.
-1. Clone the repo on your machine
+1. Clone the repo on your machine and `cd` to the root of the project
 2. run `npm i`
-3. Copy the `.env.example` as `.env` in the root of the project
+3. Copy `.env.example` as `.env` in the root of the project
 4. Adjust the `.env  values as per described in the sample file named `.env.example`
-5. run `npm run dev` to start the development server
+5. There is a .sql file for the initial table that will hold the aggregated data.
+6. run `npm run dev` to start the development server
 
 APIS:
 
